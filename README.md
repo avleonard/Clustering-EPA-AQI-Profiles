@@ -1,4 +1,4 @@
-# Project 4: Clustering U.S. Air Pollution Profiles
+# Clustering U.S. Air Pollution Profiles
 
 This notebook explores 24 years of EPA Air Quality Index (AQI) data and uncovers six distinct pollution profiles across 181 U.S. city–county pairs. 
 
@@ -19,5 +19,5 @@ I outline how air-quality challenges differ by region: from car-centric metros, 
   - Sunbelt ozone hotspots
     
 - **Validation:** Mapped the six clusters onto county population data.
-  - Findings supported high population density in the traffic cluster
+  - Findings supported high population density in the traffic cluster.
   - Refinery-heavy counties dominate the sulfur-rich cohort.
